@@ -1,2 +1,2 @@
-My first readme has been update
+My first readme has been updated
 
